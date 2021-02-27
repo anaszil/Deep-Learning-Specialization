@@ -8,6 +8,12 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 - Course 1: Neural Networks and Deep Learning
 
+        - Understand the major technology trends driving Deep Learning
+        - Be able to build, train and apply fully connected deep neural networks 
+        - Know how to implement efficient (vectorized) neural networks 
+        - Understand the key parameters in a neural network's architecture 
+
+    
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/anaszil/Neural-Networks-and-Deep-Learning/blob/main/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/anaszil/Neural-Networks-and-Deep-Learning/blob/main/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/anaszil/Neural-Networks-and-Deep-Learning/blob/main/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
