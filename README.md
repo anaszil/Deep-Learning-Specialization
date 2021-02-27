@@ -32,4 +32,4 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - There is no PA for this course. But this course comes with very interesting case study quizzes.
   
   
-  Get in touch anas.zilali@ecl19.ec-lyon.fr
+- Get in touch anas.zilali@ecl19.ec-lyon.fr
